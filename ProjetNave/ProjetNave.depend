@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591642244 source:c:\users\edwin salcedo\desktop\alle_projects\projetnave\main.cpp
+	<allegro.h>
+	<iostream>
+	<list>
+	<math.h>
+	"alarma.h"
+	"bala.h"
+	"nave.h"
+	"enemigos.h"
+
+1591641370 c:\users\edwin salcedo\desktop\alle_projects\projetnave\nave.h
+
+1591546763 source:c:\users\edwin salcedo\desktop\alle_projects\projetnave\nave.cpp
+
+1591641257 c:\users\edwin salcedo\desktop\alle_projects\projetnave\bala.h
+
+1591642490 c:\users\edwin salcedo\desktop\alle_projects\projetnave\enemigos.h
+
+1591632283 c:\users\edwin salcedo\desktop\alle_projects\projetnave\enemigo.h
+
+1591639629 c:\users\edwin salcedo\desktop\alle_projects\projetnave\alarma.h
+
